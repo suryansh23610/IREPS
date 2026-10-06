@@ -1,2 +1,2 @@
 ireps=on
-ireps_stop_date=08-10-2026
+ireps_stop_date=10-10-2026
